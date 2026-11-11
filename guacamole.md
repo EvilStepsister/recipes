@@ -2,6 +2,7 @@
 
 ## Ingredients
 * avocado
-* lemon
+* lime
 * salt
+* tomato
 ## Instructions
