@@ -6,4 +6,5 @@
 * salt
 * tomato
 * chili
+* coriander
 ## Instructions
